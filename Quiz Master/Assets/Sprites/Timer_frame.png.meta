@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 251dc4fe81257420385cd790f9c752ed
+guid: 22299a01f79ad4bbc843e242fa755aba
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8875260526845642681
-    second: Progress_bar_0
+      213: 5586758120147862296
+    second: Timer_frame_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Progress_bar_0
+      name: Timer_frame_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 398
-        height: 10
+        width: 256
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 748b150f29db4d480800000000000000
-      internalID: -8875260526845642681
+      spriteID: 813417d09e6288d40800000000000000
+      internalID: 5586758120147862296
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Progress_bar_0: -8875260526845642681
+      Timer_frame_0: 5586758120147862296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
