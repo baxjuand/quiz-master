@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6507718188fe46f4a0bb02a7ca1de31, type: 3}
+  m_Name: Question 14
+  m_EditorClassIdentifier: 
+  question: "In \u201CFable,\u201D which character is known as the Hero of Oakvale?"
+  answers:
+  - A) Jack of Blades
+  - B) Maze
+  - C) Thunder
+  - D) The protagonist (you)
+  correctAnswerIndex: 3
